@@ -91,7 +91,7 @@ export function SignupPage() {
               defaultChecked
               disabled={busy}
             />
-            Student
+            Client
           </label>
           <label>
             <input
